@@ -1,0 +1,1 @@
+You can find various graphs on how the ML model has interprested and predicted the data. Note that the various graphs give information on accuracy and feature importance, as well as time to train model and performance while training. 
