@@ -15,3 +15,11 @@ Block 11 will run the Feature importance. This will show us how important each p
 Block 12 runs a Precision-Recall Curve which shows how well the model does with recall vs. precision. 
 Block 13 runs all the previous graphs in one run
 Block 14 is for creating a gui to predict heart disease with the 11 given statistics. 
+
+Dependencies include:
+ipywidgets
+pandas
+numpy
+scikit-learn
+matplotlib
+tkinter may also be used if desired for creating the GUI.
